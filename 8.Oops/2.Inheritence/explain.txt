@@ -1,0 +1,92 @@
+SIMPLE INHERITANCE:
+
+In simple inheritance, a single child class inherits from one parent class.
+This allows the child class to reuse methods and attributes from the parent class.
+It is the most straightforward form of inheritance, promoting code reusability.
+The child class can also define its own unique methods and attributes.
+
+                    Parent
+                      |
+                      V
+                    Child
+
+
+
+
+
+MULTIPLE INHERITANCE
+
+Multiple inheritance allows a class to inherit from more than one parent class.
+The child class can access properties and methods from all the parent classes.
+It helps in combining functionalities from multiple sources, but can lead to complexity.
+Proper method resolution order (MRO) is important to avoid ambiguity in multiple inheritance.
+
+
+          Parent1    Parent2
+            |          |
+            +----------+
+                  |
+                  V
+                Child
+
+
+
+
+
+
+MULTI LEVEL INHERITANCE
+
+Multilevel inheritance creates a chain of inheritance, where a class inherits from another class,
+which itself inherits from a base class. This forms a hierarchy of inheritance levels.
+It allows the derived class to inherit features from multiple levels of the hierarchy.
+Each level can add or override methods and attributes.
+
+
+
+                    Grandparent
+                        |
+                        V
+                      Parent
+                        |
+                        V
+                      Child
+
+
+
+
+
+
+HEIRARICAL INHERITANCE
+
+
+Hierarchical inheritance involves multiple child classes inheriting from a single parent class.
+Each child class can have additional methods and attributes, while still sharing common features from the parent.
+It allows code reuse from the parent class across multiple derived classes.
+Each child class can function independently but inherits common functionality from the parent.
+
+
+                        Parent    
+                        /    \    
+                       /      \   
+                   Child1    Child2
+
+
+
+                   
+
+
+HYBRID INHERITANCE
+
+Hybrid inheritance combines two or more types of inheritance, such as multiple and hierarchical.
+It involves multiple parent classes and potentially multiple inheritance paths, leading to a complex hierarchy.
+This type of inheritance allows combining features from various sources but can increase complexity.
+Proper design is crucial to manage and avoid conflicts in hybrid inheritance structures.
+
+
+                              Parent
+                              /   \
+                             /     \
+                         Child1   Child2
+                            \      /
+                             \    /
+                           HybridChild
