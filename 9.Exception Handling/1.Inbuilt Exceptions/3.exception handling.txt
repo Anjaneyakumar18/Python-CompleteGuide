@@ -1,0 +1,22 @@
+
+
+Technically, an Exception is a class (a predefined class) that was developed by the developer.
+
+There are many more built-in exceptions, such as ZeroDivisionError, TypeError, and KeyError, which are also classes inherited from the Exception class.
+
+Whenever an exception is raised, an object for the corresponding error is initialized. If you leave it without handling, the program throws an error. However, these errors (other than SyntaxError and IndentationError) can be treated using try, except, and finally blocks, as well as the raise keyword.
+
+try: Use the try block to write code that might raise an error.
+
+except: Use the except block to handle the generated error.
+
+finally: The finally block runs irrespective of any except block.
+
+A try block may have any number of except blocks, but there can be only one try block and one finally block.
+
+
+
+pov:: Errors such as syntax Errors and IndentationError cannot be handle using exception handling
+
+
+This Folder has codes for Inbulit exception

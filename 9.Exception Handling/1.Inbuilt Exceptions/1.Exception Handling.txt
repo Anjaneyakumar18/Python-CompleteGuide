@@ -1,0 +1,13 @@
+An Exception in programming is a Runtime error 
+An Exception is also an error butcanbe treated
+
+errors such as Syntax Error and Indentation error cannot be handled using exception handling
+
+keywords used in Exception handling  
+
+try ,raise , except and finally 
+these 4 keywords are used in exception handling
+
+we must use indentation for try,except and finally
+    try,except and finally are python keyword which open ups a block for writing code
+raise keyword is used to raise error 

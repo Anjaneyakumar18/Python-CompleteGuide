@@ -1,0 +1,17 @@
+Inbuilt Exceptions in python
+
+1.ZeroDivisionError:When we tries to divide a number with 0 raises an Exception
+
+2.TypeError : When we tries to cancat 2 hetrogenious type of data
+
+3.ValueError: improper data and datatype
+
+4.IndexError : Raises when Index out of bounce happens
+
+5.KeyError: raises when unknown key is acccessed from a dictonary
+
+6.AttributeError : accessing a function with unknown object
+
+7.ImportError : When we tries to import an unknown Module
+
+8.FileNotFoundError : when we tries to open an unexisting file
