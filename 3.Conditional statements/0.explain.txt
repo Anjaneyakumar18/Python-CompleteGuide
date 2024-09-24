@@ -1,1 +1,66 @@
-conditional
+Conditional statements in Python allow the program to execute certain code blocks only when specific conditions are met. Python provides if, elif, and else statements for this purpose.
+
+
+IF BLOCK::::::::::
+if statement: Executes a block of code if the condition is True.
+
+syntax:::::::::::;;;
+if condition:
+    # Code block to execute
+
+
+IF ELIF BLOCKS:::::::::::::::
+elif statement: Used for multiple conditions; it executes the block if the previous conditions were False and the elif condition is True.
+
+
+syntax::::::::::;;;;
+if condition1:
+    # Code block 1
+elif condition2:
+    # Code block 2
+
+
+IF ELSE BLOCKS:::::::::::::::::::::::
+else statement: Executes a block of code if all previous conditions are False.
+
+SYNTAX::::::::::::::::
+
+if condition:
+    # Code block 1
+else:
+    # Code block 2
+
+
+NESTED IF BLOCKS::::::::::::
+
+
+Nested if statements: You can place if statements inside other if blocks for complex conditions.
+
+
+
+SYNTAX::::::::::::::;;;;
+if condition1:
+    if condition2:
+        # Code block
+
+
+::::::::::::::FLOW CHART:::::::::::
+
+
+
+        Start
+          |
+      [Condition]
+          |
+       Yes / No
+      /      \
+   [True]   [False]
+   /          \
+[Execute]    [elif Condition?]
+              /    \
+           [True]  [False]
+           /        \
+       [Execute]   [else]
+                     |
+                [Execute]
+
