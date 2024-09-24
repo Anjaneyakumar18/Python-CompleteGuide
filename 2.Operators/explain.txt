@@ -1,1 +1,80 @@
-Operators
+
+ARTHEMATIC OPEARTORS
+
+|Operators | Operator         |   Example    |
+|----------|------------------|--------------|
+| +        | Addition         | 5 + 3 → 8   |
+| -        | Subtraction      | 5 - 3 → 2   |
+| *        | Multiplication   | 5 * 3 → 15  |
+| /        | Division         | 5 / 2 → 2.5 |
+| //       | Floor Division   | 5 // 2 → 2  |
+| %        | Modulus          | 5 % 2 → 1   |
+| **       | Exponentiation   | 5 ** 2 → 25 |
+______________________________________________
+
+RELATIONAL OPEARTORS
+
+| Operator | Description               | Example     |
+|----------|---------------------------|-------------|
+| ==       | Equal to                  | 5 == 3 → False |
+| !=       | Not equal to              | 5 != 3 → True  |
+| >        | Greater than              | 5 > 3 → True   |
+| <        | Less than                 | 5 < 3 → False  |
+| >=       | Greater than or equal to  | 5 >= 3 → True  |
+| <=       | Less than or equal to     | 5 <= 3 → False |
+_________________________________________________________
+
+
+LOGICAL OPERATORS
+
+| Operator | Description                                   | Example                    |
+|----------|-----------------------------------------------|----------------------------|
+| and      | Returns True if both statements are true      | True and False → False     |
+| or       | Returns True if one of the statements is true | True or False → True       |
+| not      | Reverses the result                           | not True → False           |
+___________________________________________________________________________________________
+
+
+ASSIGNMENT OPEARTORS
+
+| Operator | Description             | Example         |
+|----------|-------------------------|-----------------|
+| =        | Assign                  | x = 5           |
+| +=       | Add and assign          | x += 3 (same as x = x + 3) |
+| -=       | Subtract and assign     | x -= 3          |
+| *=       | Multiply and assign     | x *= 3          |
+| /=       | Divide and assign       | x /= 3          |
+| //=      | Floor divide and assign | x //= 3         |
+| %=       | Modulus and assign      | x %= 3           |
+| **=      | Exponent and assign     | x **= 3          |
+_____________________________________________________________
+
+
+BITWISE OPERATORS
+
+| Operator | Description             | Example          |
+|----------|-------------------------|------------------|
+| &        | Bitwise AND             | 5 & 3 → 1        |
+| |        | Bitwise OR              | 5 | 3 → 7        |
+| ^        | Bitwise XOR             | 5 ^ 3 → 6        |
+| ~        | Bitwise NOT             | ~5 → -6          |
+| <<       | Bitwise left shift      | 5 << 1 → 10      |
+| >>       | Bitwise right shift     | 5 >> 1 → 2       |
+_____________________________________________________________
+
+
+IDENTITY OPEARTORS
+
+| Operator | Description                                        | Example            |
+|----------|----------------------------------------------------|--------------------|
+| is       | Returns True if both variables are the same object | x is y             |
+| is not   | Returns True if they are not the same object       | x is not y         |
+________________________________________________________________________________________
+
+MEMBERSHIP OPEARTORS
+
+| Operator | Description                                        | Example                   |
+|----------|----------------------------------------------------|---------------------------|
+| in       | Returns True if a value is found in a sequence     | 'a' in 'apple' → True     |
+| not in   | Returns True if a value is not found in a sequence | 'b' not in 'apple' → True |
+______________________________________________________________________________________________
