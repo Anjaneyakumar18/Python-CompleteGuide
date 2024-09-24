@@ -1,0 +1,18 @@
+---> Class: A class is a user defined data structure 
+           A class is a collection of data members(variables)
+            and members funtions(methods)
+
+
+---> Object:An Object is a representative of class
+            only object can access the class resources
+            instance of the class
+
+
+---> Class attributes: class attributes are data members of the class
+
+---> Dot operator: A dot operator is used to access class resources using class object
+               eg:  myobj.myclassmethods
+
+---> def __init__(): this the constructor of the class which is invoked when ever the
+                    object is created for the class 
+            used to: used to intialize the class attributes 
