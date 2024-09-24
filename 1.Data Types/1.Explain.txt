@@ -1,1 +1,27 @@
-data types
+what is data? 
+  data is a collection of facts or universal truths
+  data is pural form of datum
+
+what is datatypes?
+
+
+Data types:
+1.Individual data types
+2.Collection data types
+
+
+1.Individual data types:
+   1.Integer:Both complete positive numbers and negitive numbers are called as integers  
+   2.Float:In programing Decimal values are known as Floating point values
+   3.complex numbers:A complex number is a combination of both real part and complex part
+   4.char: In python there is no differce between char and string so we won't discuss it explicitly
+2.Collection data types:
+   1.string : A string is a collection of 1 or more charecters 
+   2.list:List is a collection of mutable data type
+   3.Tuple:A tuple is a immutable data colection 
+   4.set: A set is a mutable collection data type which dosen't support any duplicates
+   5.Dictonary:Dictonary is a key value paired collection data type
+
+
+In this folder we majorly discuss about int,float,complex and string 
+list,tuple,set and dictionaries are clearly discussed in (data structures/inbulit data structues in python) folder
