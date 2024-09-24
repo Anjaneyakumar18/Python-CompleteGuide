@@ -1,1 +1,13 @@
+Python is a high level programming language which was devloped by Gudio Van Russom in the year 1991 
+Gudio van Russom started devloping python in the year 1988 and completed by 1991
+Gudio van russom used watch a web series that is very much related to serpents(snake) and he is fond of pythons hence,He named his programming language as Python
 
+Python is a interpreted programming language
+
+INTERPRETED:--Code execution is done line by line (one line after it's previous line execution)
+
+Guido van Rossum originally created Python as a successor to the ABC programming language, aiming to correct some of its flaws while adding new features.
+Python was designed with an emphasis on code readability and simplicity, making it easier for both beginners and experienced developers to write code.
+Guido van Rossum served as Python’s “Benevolent Dictator For Life” (BDFL), overseeing the language’s development for nearly 30 years before stepping down in 2018.
+The first official release of Python (version 0.9.0) in 1991 included core features like exception handling, functions, and modules, which are still fundamental to the language today.
+Python’s development has continued under the guidance of a strong community, but Guido van Rossum's original vision of simplicity and flexibility remains at the core of the language.
