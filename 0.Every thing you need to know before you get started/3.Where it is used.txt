@@ -1,1 +1,16 @@
 
+Python is most widly used programming language
+
+53% of devlopers are using python as per JetBrains Developer Ecosystem report
+
+where python is used:
+   ----web devlopment:
+        frameworks such as Django,Flask are used in backend devlopment
+   ----Data Analatyics
+        Python's libraries like Pandas and NumPy are widely used for data analysis.
+   ----Machine Learing
+         Libraries like TensorFlow, Keras, and Scikit-learn make Python dominant in AI and ML development.
+   ----Game Devlopment
+          Frameworks like Pygame allow Python to be used in game development.
+   ----Scientific caluculation
+          Python's SciPy and Matplotlib are vital for scientific computing and simulations.
