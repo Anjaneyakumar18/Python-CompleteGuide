@@ -1,2 +1,3 @@
 # Python-CompleteGuide
 This Repository contains the pure program demonstrations of python including most of the python concepts
+Topics from baics to intermediate level are discussed and demonstrated including Oops, Exception handling and File handling etc...
