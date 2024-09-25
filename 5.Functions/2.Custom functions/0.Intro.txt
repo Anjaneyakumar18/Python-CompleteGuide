@@ -1,1 +1,40 @@
 
+In the above folder we have looked how to use inbuilt function
+
+Now let's discuss how to create our own functions 
+
+In programing languagues like c jave we use a syntax like this
+
+
+returnType functionName(arguments){
+//statements
+}
+
+eg::::::::::;;
+
+void display(String name,int age){
+System.out.println("Name is "+name+" Age is "+age);
+}
+
+int sum(int num1,int num2){
+return num1+num2
+}
+
+
+As python has simple syntax we just use a keyword def for function defination
+
+
+syntax:::::;
+def FunctionName(arguments):
+  //statements
+
+In python return is optional and no return types are used nomore explicit data type defining
+
+
+def display(name,age):
+  print(f"Name is {name} age is {age})
+
+def sum(num1,num2):
+  return num1+num2
+
+
