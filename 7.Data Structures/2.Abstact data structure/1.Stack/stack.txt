@@ -1,1 +1,30 @@
 
+A stack is a most popular data structure which follows last in first out principle (LIFO)
+
+stack has (data)+(method implementations) hence we can call it as an abstract data structure
+
+
+Data in stack 
+      We can add data into stack 
+methods in stack 
+      we can use stack methods to manipulate the stack data 
+
+
+methods:::::::  
+   push()
+   pop()
+   top()
+   isEmpty()
+   isFull()
+
+
+
+push: to put data at the top of the stack 
+pop: to delete data from the top 
+top: to get the top most data from stack
+isEmpty: to check weather the stack is empty or not 
+isFull: to check weather the stack is full or not 
+
+
+
+
