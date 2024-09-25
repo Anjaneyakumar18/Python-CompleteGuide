@@ -1,1 +1,10 @@
+what are keywords?
 
+key words are the user defined words by the devloper which enables user to use them 
+and write a program 
+the key words can be used by users but can not be used as variables as they have a fixed meaning in that 
+perticular programing language 
+There are 35 or 36 keywors in python depends on the operating system you are using 
+
+
+look into the three files in the folder which has explanation for all keywords in python 
