@@ -1,0 +1,4 @@
+The most popular problems that uses stack data structure are uploaded in the below repository 
+
+
+https://github.com/Anjaneyakumar18/Data-Structures-and-algorithms/tree/main/Stack
