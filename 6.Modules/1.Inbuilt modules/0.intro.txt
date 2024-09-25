@@ -1,1 +1,11 @@
 
+There are two types of modules in python one is user define modular and 2 is builet in modules first look into the bulletin modules a python module is a python file which has classes methods functions data
+
+We can just use import keyword to import that module and we can use all the data members and member functions from that module
+
+
+We can even import classes from modules and we can create objects and we can use them
+
+We have a lot of inbuilt modules such as math,itertools,Json, collections, date time any many
+
+But some special packages are need to be installed first using pip commands in command prompt example numpy,pandas,matplotlibrary,seaborn etc..
