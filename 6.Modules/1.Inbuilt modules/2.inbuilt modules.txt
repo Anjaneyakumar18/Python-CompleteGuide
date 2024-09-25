@@ -1,0 +1,17 @@
+math
+Use Case: Perform mathematical operations, such as calculating square roots, trigonometric functions, and constants like π.
+
+random
+Use Case: Generate random numbers or select random items from a list, useful in simulations or games.
+
+datetime
+Use Case: Work with dates and times, allowing for operations like calculating time differences or formatting dates.
+
+os
+Use Case: Interact with the operating system, enabling file and directory manipulation, such as creating or deleting files.
+
+sys
+Use Case: Access system-specific parameters and functions, including command-line arguments and Python version information.
+
+json
+Use Case: Work with JSON data, allowing for easy serialization (converting Python objects to JSON) and deserialization (JSON to Python objects).
