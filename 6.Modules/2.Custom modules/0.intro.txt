@@ -1,1 +1,13 @@
 
+In the previous folder we have looked how to handle inbilt python modules now let's look into the custom python 
+modules a custom python module is also known as user define python module as we know before a module is a
+collection of classes methods or data
+
+
+Similarly a custom model is also like inbuilt module various involt module is developed by the developer and 
+the custom modules are developed by users
+
+
+We can simply open a file and write whatever the python code we need and just save it as any file name you can
+just import that particular module in another python file and you make use of the functions 
+which have written in the module
