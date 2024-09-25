@@ -1,1 +1,21 @@
+lambda functions are also known as Anonymous functions or oneline functions also
+
+
+Definition: Lambda functions are small, single-expression functions that are defined without a name. The syntax is lambda arguments: expression.
+
+Usage: They are often used for short-term functions that are not going to be reused elsewhere, making the code more concise.
+
+Return Value: Unlike regular functions defined with def, lambda functions automatically return the value of the expression without needing a return statement.
+
+Limitations: Lambda functions can only contain a single expression, which means they cannot have multiple statements or complex logic.
+
+
+syntax:::
+lambda arguments:expression
+
+
+example
+
+lambda x,y:x+y
+
 
