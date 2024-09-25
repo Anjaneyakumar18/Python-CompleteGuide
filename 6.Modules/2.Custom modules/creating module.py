@@ -16,3 +16,11 @@ def age():
 
 def skills():
   print("I am skilled in python,DSA,Web devlopment,SQL and Java")
+
+
+class student:
+  def college():
+    print("NEC")
+    return
+  def course():
+    print("Btech")
