@@ -1,1 +1,17 @@
+Queue is a another linear abstract data structure
 
+A queye follows first in first out approach
+
+
+enqueue(item): Adds an item to the end of the queue.
+dequeue(): Removes and returns the item from the front of the queue.
+peek(): Returns the item at the front of the queue without removing it.
+isEmpty(): Checks if the queue is empty and returns True or False.
+
+
+front()
+Definition: Returns the item at the front of the queue without removing it.
+Purpose: Allows you to view the next item to be dequeued without modifying the queue.
+rear()
+Definition: Returns the item at the rear (or end) of the queue without removing it.
+Purpose: Allows you to view the last item added to the queue without modifying it.
