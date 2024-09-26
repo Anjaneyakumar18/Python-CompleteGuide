@@ -1,0 +1,37 @@
+while is typically used when you donot know how many times does you have to run a loop
+
+In traditional programming languages like java and c the syntax is
+
+while condition{
+//statements
+}
+
+eg:
+
+int i=0
+while (i<10){
+System.out.println(i);
+i=i+1
+}
+
+
+while loop dosen't have auto increment you have in incremenent the looping variable 
+
+
+in python the while loop syntax is:
+
+while condition:
+  //statement
+  incremenent
+
+
+
+eg
+
+
+i=0
+while i<10:
+  print(i)
+  i+=1
+
+
