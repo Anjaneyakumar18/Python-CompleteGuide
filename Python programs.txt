@@ -1,0 +1,8 @@
+basic problem solving using python 
+
+
+Link one : https://github.com/Anjaneyakumar18/services_based_company_dsa (Easy)
+
+Link two : https://github.com/Anjaneyakumar18/python (Easy)
+
+Link three : https://github.com/Anjaneyakumar18/HackerEarth- (Easy-Medium)
