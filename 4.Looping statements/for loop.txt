@@ -1,0 +1,39 @@
+
+Looping statements are most basic part of programing language 
+
+in Traditional programing languages like c and java the syntax is like::::;;;
+
+
+for (int i=0;i<10;i++){
+//statements
+}
+
+A loop is the most basic looping statement which has an auto increminet
+
+for loop in python
+
+in python we use for and member ship opeartor (in) key words and a range function to rum a for loop
+
+
+syntax:::::;;
+
+
+for i in range(start,stop,step):
+  //statements
+
+
+example 
+
+for i in range(10):   
+  no start values so runs from 0-9
+
+for i in range(1,10):
+  runs from 1 to 9
+
+for i in range(1,10,2):
+  start+stop+step 
+  1,3,5,7,9  (iterations)
+
+
+
+
