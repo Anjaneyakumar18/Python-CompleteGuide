@@ -1,0 +1,72 @@
+### DATA TYPES
+- **False**: Boolen class False value
+- **None**: Represents a null value or absence of a value; can be replaced by any data type later.
+- **True**: Boolean class True value
+
+
+
+  
+### OPERATORS KEYWORDS
+- **and**: Logical operator that returns True if both operands are true.
+- **not**: Logical operator that negiates(Changes) a boolean value.
+- **or**: Logical operator that returns True if at least one operand is true.
+- **in**: Membership operator checks for the value in the target sequence(like a list, tuple, or string) .
+- **is**: identity operator used for object equality and inequality
+
+
+  
+### CONTROL STRUCTURES KEYWORDS
+- **if**: Initiates a conditional statement.
+- **elif**: Used in conditional statements should only have one sibling if for elif, meaning "else if."
+- **else**:  alternative block if all if and elif fails
+   ---looping keywords----
+- **for**: Initiates a for loop that iterates over a sequence (like a list or string or even a range()).
+- **while**: Initiates a while loop that continues as long as a condition is true.
+    ---escape keywords---
+- **break**: Exits the nearest enclosing loop prematurely.
+- **continue**: Skips the current iteration of a loop and continues to the next iteration.
+
+
+  
+### EXCEPTIONS AND ERROR HANDLING KEYWORDS
+- **try**: opens a block in which we write code which might causes errors.
+- **raise**: Triggers an exception which will be captured by a except block.
+- **except**: opens a block to treat exception raised by try block.
+- **finally**: This excecutes irrespective of try and except blocks.
+- **assert**: used to raise a custom errors with a quation.
+
+
+  
+### FUNCTION RELATED KEYWORDS
+- **def**: Declares a new function.
+- **lambda**: Creates an anonymous function (a function without a name).
+- **pass**: A dummy keyword which is used to show just declarations (no code inside block)
+- **return**: exit from function and returns a value from function
+
+
+  
+### MODULE HANDLING KEYWORDS
+- **from**: Imports specific parts of a module mostly used to import classes but we can import any thing from module using from keyword
+- **import**: Imports a module or its components into the current workspace (file).
+- **as**: as is used to make a alias name for the object or module etc..
+
+  
+### ASYNCHRONOUS PROGRAMMING KEYWORDS
+- **async**: Declares an asynchronous function, allowing for the use of await within it.
+- **await**: Pauses the execution of an async function until a given asynchronous task is complete.
+
+
+  
+### OBJECT-ORIENTED PROGRAMMING KEYWORDS
+- **class**: Defines a new user-defined class.
+- **del**: Deletes an object from program data.
+
+ ### SCOPE VARIABLE KEYWORDS 
+- **global**: Declares a variable as global, allowing it to be modified inside a function.
+- **nonlocal**: Declares a variable in a nested function to refer to a variable in the nearest enclosing scope.
+
+### RESOURCE MANAGER KEYWORDS
+- **with**: Simplifies exception handling by encapsulating common preparation and cleanup tasks.
+
+### GENERATORS KEYWORDS
+- **yield**: used in a function or a loop inside a function which retuns values and stops loop execution when the function called again the execution starts where it was stoped by yield keyword
