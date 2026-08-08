@@ -6,11 +6,9 @@ class passwordExp(Exception):
         super().__init__(msg)
 password=input("Enter password :")
 
-if len(password)<6:
-    try:
-        raise passwordExp("Invalid password")
-    except passwordExp as e:
-        print(e)
-else:
-    print("Valid Password")
-        
+try:
+    if len(password)<6:
+        raise passwordExp("Password cannot be less the 6 chars")
+    print(f'your password is {password}')
+except Exception as e:
+    print(e)
